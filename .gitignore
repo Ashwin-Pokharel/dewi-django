@@ -1,0 +1,13 @@
+
+#ide files
+/.idea
+/__pycache__/
+
+
+#virual enviornment
+/venv
+
+.env
+
+/.idea/
+/.env
